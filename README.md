@@ -1,0 +1,1 @@
+# -columm_privew_card
